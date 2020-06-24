@@ -1,0 +1,12 @@
+name: Caribou-Locations
+title: Caribou-Locations
+username:
+account: rporta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2495142
+bundleId: 3308832
+url: https://rporta.shinyapps.io/Caribou-Locations/
+when: 1592956748.25167
+asMultiple: FALSE
+asStatic: FALSE
